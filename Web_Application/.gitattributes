@@ -1,0 +1,2 @@
+You_shall_pass/* filter=lfs diff=lfs merge=lfs -text
+You_shall_pass/** filter=lfs diff=lfs merge=lfs -text
